@@ -1,0 +1,4 @@
+cd 
+git add local1
+git commit -m "Ajouter le fichier local1"
+git push origin master
